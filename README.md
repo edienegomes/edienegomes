@@ -1,16 +1,12 @@
-## Hi there 👋
+## 👋 Olá! Me chamo Ediene e sou estudante de Engenharia de Software
 
-<!--
-**edienegomes/edienegomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edienegomes&show_icons=true&theme=tokyonight&title_color=BF7FFF&icon_color=FF4D6D&text_color=D9D9F3&bg_color=0D001A" height="180" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edienegomes&layout=donut&theme=tokyonight&title_color=BF7FFF&text_color=D9D9F3&bg_color=0D001A" height="180" alt="Linguagens mais usadas"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="45" width="45" style="filter: hue-rotate(320deg) brightness(1.2);" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="45" width="45" style="filter: hue-rotate(320deg) brightness(1.2);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
