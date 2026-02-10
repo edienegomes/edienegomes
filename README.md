@@ -8,10 +8,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-link/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://www.linkedin.com/in/ediene-gomes-357b11353?style=for-the-badge&logo=linkedin&logoColor=white">
+    
   </a>
 </p
   
