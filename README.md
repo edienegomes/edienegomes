@@ -5,13 +5,11 @@
   <img align="center" alt="Python" height="45" width="45" style="filter: hue-rotate(320deg) brightness(1.2);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Spring" height="45" width="45" style="filter: hue-rotate(320deg) brightness(1.2);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
-  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edienegomes&show_icons=true&theme=tokyonight&title_color=BF7FFF&icon_color=FF4D6D&text_color=D9D9F3&bg_color=0D001A" height="180" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edienegomes&layout=donut&theme=tokyonight&title_color=BF7FFF&text_color=D9D9F3&bg_color=0D001A" height="180" alt="Linguagens mais usadas"/>
+
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edienegomes&show_icons=true&theme=tokyonight&title_color=BF7FFF&icon_color=FF4D6D&text_color=D9D9F3&bg_color=0D001A" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edienegomes&layout=compact&theme=tokyonight&title_color=BF7FFF&text_color=D9D9F3&bg_color=0D001A" height="180"/>
 </div>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=edienegomes&theme=tokyo-night)
-
 
 ![Snake animation](https://raw.githubusercontent.com/edienegomes/edienegomes/output/github-contribution-grid-snake-dark.svg)
