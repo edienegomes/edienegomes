@@ -18,11 +18,7 @@
 
 <div align="center">
   <img width="330"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edienegomes&theme=tokyonight"/>
-
-  <img width="330"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edienegomes&theme=tokyonight"/>
-  <br/><br/>
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edienegomes&theme=tokyonight"/>/>
 
   <img width="420"
        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edienegomes&theme=tokyonight"/>
