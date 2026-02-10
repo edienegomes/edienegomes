@@ -1,5 +1,6 @@
 ## 👋 Olá! Me chamo Ediene e sou estudante de Engenharia de Software
 
+## 💻 Tech:
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="50" width="50"
        style="filter: hue-rotate(320deg) brightness(1.2);"
@@ -11,7 +12,8 @@
        style="filter: hue-rotate(320deg) brightness(1.2);"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
----
+
+## 📊 Stats:
 <div align="left">
   <img width="320"
        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edienegomes&theme=tokyonight"/>
