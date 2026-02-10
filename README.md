@@ -11,4 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edienegomes&layout=donut&theme=tokyonight&title_color=BF7FFF&text_color=D9D9F3&bg_color=0D001A" height="180" alt="Linguagens mais usadas"/>
 </div>
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=edienegomes&theme=tokyo-night)
+
+
 ![Snake animation](https://raw.githubusercontent.com/edienegomes/edienegomes/output/github-contribution-grid-snake-dark.svg)
