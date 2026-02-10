@@ -11,11 +11,11 @@
        style="filter: hue-rotate(320deg) brightness(1.2);"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
-
+---
 <div align="left">
-  <img width="330"
+  <img width="320"
        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edienegomes&theme=tokyonight"/>
-  <img width="330"
+  <img width="320"
        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edienegomes&theme=tokyonight"/>
 </div>
 
