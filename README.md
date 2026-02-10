@@ -7,11 +7,11 @@
 </div>
 
 <div align="center">
+  <img width="350"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edienegomes&theme=tokyonight"/>
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edienegomes&theme=tokyonight)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edienegomes&theme=tokyonight)
-
+  <img width="350"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edienegomes&theme=tokyonight"/>
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/edienegomes/edienegomes/output/github-contribution-grid-snake-dark.svg)
