@@ -8,8 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-link/">
-    <img src="https://www.linkedin.com/in/ediene-gomes-357b11353?style=for-the-badge&logo=linkedin&logoColor=white">
-    
+    <img src="https://www.linkedin.com/in/ediene-gomes-357b11353/style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p
   
