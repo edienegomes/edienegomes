@@ -1,16 +1,12 @@
 ## 👋 Olá! Me chamo Ediene e sou estudante de Engenharia de Software
 
 ## 💻 Tech:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="50" width="50"
-       style="filter: hue-rotate(320deg) brightness(1.2);"
-       src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="50" width="50"
-       style="filter: hue-rotate(320deg) brightness(1.2);"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Spring" height="50" width="50"
-       style="filter: hue-rotate(320deg) brightness(1.2);"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img width="1" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="50" alt="spring logo"  />
 </div>
 
 ## 📊 Stats:
@@ -22,3 +18,13 @@
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/edienegomes/edienegomes/output/github-contribution-grid-snake-dark.svg)
+
+## ✉️ Contacts:
+<div align="center">
+  <a href="https://www.linkedin.com/in/ediene-gomes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:edienegomes44@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
+  </a>
+</div>
