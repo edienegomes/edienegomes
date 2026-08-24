@@ -3,10 +3,18 @@
 ## 💻 Tech:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="1" />
+  <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="1" />
+  <img width="10"/>
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="50" alt="spring logo"  />
+  <img width="10">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="55" alt="PostgreSQL"/>
+  <img width="10"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="Docker"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height="55" alt="Git"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" height="55" alt="Haskell"/>
 </div>
 
 ## 📊 Stats:
