@@ -14,7 +14,6 @@
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height="55" alt="Git"/>
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" height="55" alt="Haskell"/>
 </div>
 
 ## 📊 Stats:
